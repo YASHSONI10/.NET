@@ -1,0 +1,21 @@
+COE TO FIND VOVELS IN AND INPUT STRING #
+
+   {
+            string str;
+            int i, vovel, len;
+            Console.WriteLine("enter a string");
+            str = Console.ReadLine(); 
+            for (i =0; i<len; i++)
+            {
+                if (str(i) == "a" || str(i) == "e" || str(i) == "u" || str(i) == "i" || str(i) == "o")
+                {
+                    Console.WriteLine(vovel);
+
+                }
+                else
+                {
+                    Console.WriteLine("no vovels");
+                }
+                Console.WriteLine("these are vovels {0}", volvel);
+                Console.ReadLine();
+            }
